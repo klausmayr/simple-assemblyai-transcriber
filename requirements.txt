@@ -1,6 +1,0 @@
-requests
-json
-time
-ipympl
-ipyvolume
-voila
