@@ -1,4 +1,6 @@
-bqplot
+json
+requests
+time
 ipympl
 ipyvolume
 scipy
