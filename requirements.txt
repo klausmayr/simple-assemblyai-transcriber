@@ -1,6 +1,3 @@
-json
-requests
-time
 ipympl
 ipyvolume
 scipy
